@@ -1,6 +1,6 @@
-train: ./data/raw/ships-in-aerial-images/train/images
-val: ./data/raw/ships-in-aerial-images/valid/images
-test: ./data/raw/ships-in-aerial-images/test/images
+train: /home/<your-username>/projects/vessel-monitoring/data/raw/ships-in-aerial-images/train/images
+val: /home/<your-username>/projects/vessel-monitoring/data/raw/ships-in-aerial-images/valid/images
+test: /home/<your-username>/projects/vessel-monitoring/data/raw/ships-in-aerial-images/test/images
 
 nc: 1
 names: ['ship']
